@@ -21,7 +21,6 @@ Parameters of the model are optimized using numerical optimizers on following da
 * Fatalities data
 
 
-
 François Lievens \
 Julien Hubar\
 Andreas Duquenne\
